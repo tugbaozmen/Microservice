@@ -1,0 +1,11 @@
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net7.0\Course.Shared.deps.json
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net7.0\Course.Shared.dll
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\bin\Debug\net7.0\Course.Shared.pdb
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.AssemblyInfoInputs.cache
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.AssemblyInfo.cs
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.dll
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\refint\Course.Shared.dll
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\Course.Shared.pdb
+C:\Users\Tugba\source\repos\Microservices\Shared\Course.Shared\obj\Debug\net7.0\ref\Course.Shared.dll
