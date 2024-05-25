@@ -17,7 +17,8 @@ namespace Course.Services.Catalog.Controllers
             _categoryService = categoryService;
         }
 
-        public async Task<IActionResult> GetAll(string id)
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
         {
             var response = await _categoryService.GetAllAsync();
 

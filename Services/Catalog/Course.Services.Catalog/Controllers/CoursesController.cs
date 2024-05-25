@@ -18,7 +18,8 @@ namespace Course.Services.Catalog.Controllers
             _courseService = courseService;
         }
 
-        public async Task<IActionResult> GetAll(string id)
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
         {
             var response=await _courseService.GetAllAsync();
 
@@ -50,7 +51,7 @@ namespace Course.Services.Catalog.Controllers
             return CreateActionResultInstance(response);
         }
 
-        [HttpPost]
+        [HttpPut]
         public async Task<IActionResult> Update(CourseUpdateDto courseUpdateDto)
         {
             var response = await _courseService.UpdateAsync(courseUpdateDto);
